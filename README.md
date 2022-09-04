@@ -1,5 +1,3 @@
-![Debut 2022-09-04 16_37_13](https://user-images.githubusercontent.com/54786087/188330797-a3a0cdb1-ad8d-4e7d-ad34-6509dc1d86b8.gif)
-
 <h1>Hola! Soy Gustavo Varela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2>  JUNIOR FRONTEND DEVELOPER </h2>
 
