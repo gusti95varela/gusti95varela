@@ -4,7 +4,7 @@
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  Sobre mí
 
 - Hola a todos 👋, Mi nombre es Gustavo pero me puedes decir Gusti.
-- Soy estudiante de Desarrollo, diseño web y apps👨‍💻.
+- Soy estudiante de Programación👨‍💻.
 - Estoy interesado en el Desarollo Frontend.
 - Actualmente, estoy desarrollando Webs y Apps con Javascript.
 Puedes ver mi portafolio aqui. [Portfolio](https://gusti95varela.github.io/Portfolio/about.html)<br>
